@@ -1,0 +1,7 @@
+Maxim MAX17043/17044 Fuel Gauge Wire Library for Spark Core
+===================
+The library uses I2C to connect to the sensor (see the Wire library).
+
+About
+-----
+This project is based on https://github.com/MattNewberry/MAX1704/ and is part of Matthew Newberry's work.
