@@ -1,0 +1,7 @@
+{
+    "name": "MAX1704",
+    "author": "Geert Wille <geert@appstrakt.com>",
+    "license": "GNU",
+    "version": "0.0.1",
+    "description": "A library for using the MAX1704 in your project"
+}
