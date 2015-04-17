@@ -33,6 +33,10 @@ float MAX1704::stateOfCharge()
     float fraction = lsb / 256.0;
     float percentage = msb + fraction;
 
+    if (percentage >= 100) {
+        percentage = 100;
+    }
+
     return percentage;
 }
 
